@@ -1,3 +1,11 @@
+当前公开代码为复现代码
+【1】J. Chen, D. Zhang, Z. Wu, F. Zhou, Q. Sun and Y. Chen, "Contactless Electrocardiogram Monitoring With Millimeter Wave Radar," in IEEE Transactions on Mobile Computing, vol. 23, no. 1, pp. 270-285, Jan. 2024, doi: 10.1109/TMC.2022.3214721.
+keywords: {Electrocardiography;Monitoring;Contacts;Sensors;Millimeter wave radar;Biomedical monitoring;Radio frequency;Wireless sensing;electrocardiogram;millimeter wave radar;deep learning},
+
+如对您有所帮助请引用相关文献
+【1】D. Xu, Y. Xu, K. Xu, Z. Hu, M. Xing, F. Gini, and M. S. Greco, "WaveGRU-Net: Robust Non-contact ECG Reconstruction via MIMO Millimeter-Wave Radar and Multi-Scale Semantic Analysis," Signal Processing.
+【2】Y. Xu, Y. Zhang, D. Xu, and K. Xu, "VMD-CBNET: A Non-Contact ECG Reconstruction Method," 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025).
+
 # 基于时空卷积网络的雷达心电信号重建系统
 
 ## 项目概述
